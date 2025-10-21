@@ -1,4 +1,4 @@
-// Contact form functionality
+// Form handling
 document.addEventListener('DOMContentLoaded', function() {
     const contactForm = document.getElementById('contact-form');
     const successMessage = document.getElementById('success-message');
@@ -124,7 +124,7 @@ function clearErrors() {
     });
 }
 
-// Mobile menu functionality (placeholder)
+// Mobile menu
 function toggleMobileMenu() {
     console.log('Mobile menu toggle clicked');
     // Add mobile menu implementation here if needed

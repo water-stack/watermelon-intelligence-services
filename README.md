@@ -1,4 +1,4 @@
-# Watermelon Intelligence Services 🍉
+# Watermelon Intelligence Services
 
 A professional intelligence analysis and digital security consulting website with a playful spy-themed design.
 
@@ -19,7 +19,7 @@ Detailed risk assessments with clear visualizations and comprehensive reports th
 
 ## Features
 
-- **Professional Design**: Clean, modern interface with a unique watermelon theme
+- **Professional Design**: Clean, modern interface with consistent WM branding
 - **Responsive Layout**: Optimized for all device sizes
 - **Interactive Elements**: Smooth animations and hover effects
 - **Contact Form**: Secure communication channel with validation

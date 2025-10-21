@@ -2,14 +2,13 @@
 echo Deploying Watermelon Intelligence Services to GitHub Pages
 echo.
 
-REM This will enable GitHub Pages after the repository is pushed to GitHub
 echo To enable GitHub Pages:
 echo 1. Go to your repository on GitHub
 echo 2. Click on "Settings" tab
 echo 3. Scroll down to "Pages" section
 echo 4. Under "Source", select "GitHub Actions"
 echo.
-echo OR for immediate deployment:
+echo OR deploy from a branch:
 echo 1. Go to Settings - Pages
 echo 2. Under "Source", select "Deploy from a branch"
 echo 3. Select "main" branch

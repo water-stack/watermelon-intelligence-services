@@ -2,7 +2,6 @@
 echo Setting up GitHub repository for Watermelon Intelligence Services
 echo.
 
-REM Replace these with your actual GitHub username and repository name
 set GITHUB_USERNAME=water-stack
 set REPO_NAME=watermelon-intelligence-services
 
